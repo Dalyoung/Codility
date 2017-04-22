@@ -1,4 +1,4 @@
-package lesson7.StoneWall;
+package lesson07.StoneWall;
 
 import java.util.Stack;
 

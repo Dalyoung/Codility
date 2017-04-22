@@ -1,4 +1,4 @@
-package lesson8.Dominator;
+package lesson08.Dominator;
 
 
 public class Solution {

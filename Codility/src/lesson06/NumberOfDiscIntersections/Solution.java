@@ -1,4 +1,4 @@
-package lesson6.NumberOfDiscIntersections;
+package lesson06.NumberOfDiscIntersections;
 
 public class Solution {
 

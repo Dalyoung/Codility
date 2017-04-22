@@ -1,4 +1,4 @@
-package lesson7.Nesting;
+package lesson07.Nesting;
 
 public class Solution {
 

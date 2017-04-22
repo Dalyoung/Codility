@@ -1,4 +1,4 @@
-package lesson7.Fish;
+package lesson07.Fish;
 
 import java.util.Stack;
 

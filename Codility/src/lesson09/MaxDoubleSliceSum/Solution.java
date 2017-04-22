@@ -1,4 +1,4 @@
-package lesson10.MinPerimeterRectangle;
+package lesson09.MaxDoubleSliceSum;
 
 
 public class Solution {

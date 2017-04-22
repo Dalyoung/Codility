@@ -1,7 +1,6 @@
 package lesson06.Triangle;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class Solution {
 	public static void main(String[] args) {
@@ -11,7 +10,7 @@ public class Solution {
 		System.out.println(s.solution(new int[]{10, -10, -10, 9}));
 		System.out.println(s.solution(new int[]{-10, -9, -3, -2}));
 	}
-	
+	// TODO
 	public int solution(int[] A) {
         // write your code in Java SE 8
 		Arrays.sort(A);
@@ -21,6 +20,8 @@ public class Solution {
 				return 1;
 			}
 		}
+		
+		return 0;
     }
 	
 }

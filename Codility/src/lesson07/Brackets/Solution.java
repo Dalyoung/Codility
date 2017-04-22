@@ -1,4 +1,4 @@
-package lesson7.Brackets;
+package lesson07.Brackets;
 
 import java.util.Stack;
 

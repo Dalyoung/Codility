@@ -1,4 +1,4 @@
-package lesson8.EquiLeader;
+package lesson08.EquiLeader;
 
 
 public class Solution {
